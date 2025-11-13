@@ -6,6 +6,9 @@ flask-cors
 waitress
 asyncio
 python-multipart
+fastapi
+uvicorn
+pydantic
 
 numpy # 张量处理
 pandas
@@ -25,4 +28,3 @@ jupyter # Jupyter Notebook
 
 redis # 数据库驱动
 psycopg2_binary
-pymysql
